@@ -5,5 +5,6 @@
 ## You Need to Install Bootstrap and import => npm i bootstrap => import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 ## AND THEN
 ## You Need to Install JSON Server => npm i json-server
-## AND
+## AND THEN
+## json-server --watch db.json --port 8000
 ## You Can Start The Project :) .
